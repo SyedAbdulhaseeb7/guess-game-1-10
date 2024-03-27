@@ -1,0 +1,22 @@
+{
+  "name": "guess-game-1-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "as.js",
+  "type": "module",
+  "bin": "as.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  }
+}
